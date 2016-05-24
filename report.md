@@ -12,7 +12,7 @@ Anna is a novice higher jumper and Judy is a world class competitor. Anna’s be
 improved to 4 feet in 2016. Judy’s best jump in 2015 was 6 feet 7 inches and improved to 6 feet 9 inches in 2016. The
 world record high jump for females is 6 feet, 10 1/4 inches.
 
-![Improvement for two high jumpers](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
+![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
 
 * Whose high jump changed more? Explain your answer.
 * Whose high jump change is more remarkable? Explain your answer.
