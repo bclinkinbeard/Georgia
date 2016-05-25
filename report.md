@@ -66,8 +66,9 @@ upon where a student starts. Students show __beginner's gains__ in academics jus
 ## What's the solution?
 
 If subtraction doesn't work, what's the solution? The previous examples give a hint: Consider the and look at
-where the student currently is relative to students with the same starting point. This is exactly what the
-[Georgia Model of Student Growth](http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Assessment/Pages/Georgia-Student-Growth-Model.aspx)
+where the student currently is relative to students with the same starting point.
+
+This is exactly what the [Georgia Model of Student Growth](http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Assessment/Pages/Georgia-Student-Growth-Model.aspx)
 does by looking at all students across the state that share the same achievement history as the student in the given grade
 and content area. Each student receives a __student growth percentile (SGP)__ indicating how remarkable their progress is relative
 to their academic peers: those students with the same achievement history.  
