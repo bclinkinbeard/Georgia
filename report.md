@@ -3,7 +3,9 @@
 Student academic growth is a topic that almost everyone thinks they understand. Growth and change are familiar
 concepts to all parents, especially as they relate to increases in the height and weight of children. However,
 when details about the "growth model" emerge reactions often range from general confusion to
-frustration: __Why does something so simple have to be made so complicated?__ In reality, student academic
+frustration: __Why does something so simple have to be made so complicated?__
+
+In reality, student academic
 growth is slightly more complicated than most people think but much less complicated than much of what's
 written about it would lead one to believe. A simple 5th grade story problem helps to illustrate this point.
 
