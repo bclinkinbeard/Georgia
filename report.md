@@ -14,10 +14,8 @@ written about it would lead one to believe. A simple 5th grade story problem hel
 The story problem is drawn from a situation outside of education where we are asked to consider the
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
-Anna is a novice higher jumper and Judy is a world class competitor. In 2015 Anna’s best jump was 3 feet 6 inches whereas Judy's
-was 6 feet 7 inches. During following 2016 season Anna improved to 4 feet and Judy to 6 feet 9 inches.
-
-The following figure illustrates the high jump data for the two jumpers.
+>Anna is a novice higher jumper and Judy is a world class competitor. In 2015 Anna’s best jump was 3 feet 6 inches whereas Judy's
+>was 6 feet 7 inches. During following 2016 season Anna improved to 4 feet and Judy to 6 feet 9 inches.
 
 ![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
 
