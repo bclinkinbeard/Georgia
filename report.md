@@ -24,20 +24,24 @@ improvement in personal best high jumps for two high jumpers, Anna and Judy.
 * Which high jumper improved more? Explain your answer.
 
 The first question is a familiar one in any arithmetic class. Simple subtraction tells us how much each changed:
-6 inches for Anna and 2 inches for Judy. The second and third questions are more subtle. One might simply answer those
-questions by saying that since Anna's best high jump changed more than Judy's, Anna's change is more remarkable.
-However comparing Anna’s 6 inch improvement to Judy’s 2 inch improvement requires care. Bigger isn't necessarily better
-when comparing changes in scores.
+6 inches for Anna and 2 inches for Judy. The second and third questions are more subtle.
+
+One might simply answer those questions by saying that since Anna's best high jump changed more than Judy's, Anna's change
+is more remarkable. However comparing Anna’s 6 inch improvement to Judy’s 2 inch improvement requires care. Bigger isn't
+necessarily better when comparing changes in scores.
 
 Though it is certainly true that 6 inches is more than 2 inches, a 6 inch improvement for a novice is not
 more remarkable than a 2 inch improvement for an expert. Novices generally improve a lot when
-starting--often referred to as beginners gains. Understanding Anna’s and Judy’s improvement requires one to
-compare them to their peer’s: those whose high jumping ability is like theirs. A 2 inch increase for an elite
-high jumper is remarkable whereas 6 inches for a novice is typical.
+starting--often referred to as beginners gains.
+
+Understanding Anna’s and Judy’s improvement requires one to compare them to their peer’s: those whose high jumping ability is
+like theirs. A 2 inch increase for an elite high jumper is remarkable whereas 6 inches for a novice is typical.
 
 A 6 inch improvement for a novice isn't that remarkable as most novices show at least that much improvement. By contrast, the
 2 inch improvement for Judy puts her within striking distance of the world record. A bigger change isn't necessarily more
-remarkable. This isn't unique to high jumping. Numerous events are like this: A 2 inch increase in height for a 60 year old
+remarkable.
+
+This isn't unique to high jumping. Numerous events are like this: A 2 inch increase in height for a 60 year old
 is more remarkable than a 4 inch increase for a toddler. It is normal for toddlers to grow 4 inches from one year to the
 next but it is not normal for adults to grow 2 inches. The moral of the story problem is that __context matters__.
 
@@ -47,8 +51,9 @@ next but it is not normal for adults to grow 2 inches. The moral of the story pr
 A common belief among users of [Georgia
 Milestones](http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Assessment/Pages/Georgia-Milestones-Assessment-System.aspx) data is that one can simply subtract a student's scores from
 one grade to the next and use the difference to evaluate student growth. Subtraction is what everyone learned to
-do in elementary school when asked to find how much a quantity had changed. For the Georgia Milestones,
-there are two problems with subtracting a student's scores from one year to the next.
+do in elementary school when asked to find how much a quantity had changed.
+
+For the Georgia Milestones, there are two problems with subtracting a student's scores from one year to the next.
 
 1. The Georgia Milestones assessment scores from year to year are not meant to be subtracted. Even though
 the scores have the same range, subtracting them makes no sense: like subtracting your weight from your height.
