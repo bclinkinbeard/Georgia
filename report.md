@@ -44,9 +44,9 @@ students starting at different places is harder than just simple subtraction bec
 upon where a student starts.  
 
 
-## Context Matters
+## Moral of the Story: Context Matters
 
-The moral of the story problem is that __context matters__. In almost all sport, like high jumping, beginners
-tend to demonstrate larger gains than experts. Even with human height, we take account of the age an individual when
-consider how much their height has changed: It is normal for toddlers to grow 4 inches from one year to the next
-but it is not normal for adults to do the same. 
+In almost all sport, like high jumping, beginners tend to demonstrate larger gains than experts. Even with human height,
+we take account of the age an individual when consider how much their height has changed: It is normal for toddlers to
+grow 4 inches from one year to the next but it is not normal for adults to do the same. Just as in these familiar
+areas, context matters in student academic growth.
