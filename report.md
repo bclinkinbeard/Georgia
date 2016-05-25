@@ -2,7 +2,7 @@
 
 Student academic growth is a topic that almost everyone thinks they understand. Growth and change are familiar
 concepts to all parents, especially as they relate to increases in the height and weight of children. However,
-when details about a student academic "growth model" emerge reactions often range from general confusion to
+when details about the "growth model" emerge reactions often range from general confusion to
 frustration: __Why does something so simple have to be made so complicated?__ In reality, student academic
 growth is slightly more complicated than most people think but much less complicated than much of what's
 written about it would lead one to believe. A simple 5th grade story problem helps to illustrate this point.
@@ -42,7 +42,8 @@ next but it is not normal for adults to grow 2 inches. The moral of the story pr
 
 ## Subtraction isn't a growth model
 
-A common belief among users of Georgia Milestones data is that one can simply subtract a student's scores from
+A common belief among users of [Georgia
+Milestones](http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Assessment/Pages/Georgia-Milestones-Assessment-System.aspx) data is that one can simply subtract a student's scores from
 one grade to the next and use the difference to evaluate student growth. Subtraction is what everyone learned to
 do in elementary school when asked to find how much a quantity had changed. For the Georgia Milestones,
 there are two problems with subtracting a student's scores from one year to the next.
@@ -52,16 +53,16 @@ the scores have the same range, subtracting them makes no sense: like subtractin
 
 2. Even if scores could be subtracted, as the high jump story problem illustrated: Evaluating academic growth for
 students starting at different places is harder than just simple subtraction because academic growth varies based
-upon where a student starts. Students show beginner's gains in academics just like high jumping.
+upon where a student starts. Students show __beginner's gains__ in academics just like high jumping.
 
 
 ## What's the solution?
 
-If subtraction doesn't work, what's the solution? The previous examples give a hint: Consider the _context_ and look at
+If subtraction doesn't work, what's the solution? The previous examples give a hint: Consider the and look at
 where the student currently is relative to students with the same starting point. This is exactly what the
 [Georgia Model of Student Growth](http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Assessment/Pages/Georgia-Student-Growth-Model.aspx)
 does by looking at all students across the state that share the same achievement history as the student in the given grade
-and content area. Each student receives a _student growth percentile (SGP)_ indicating how remarkable their progress is relative
+and content area. Each student receives a __student growth percentile (SGP)__ indicating how remarkable their progress is relative
 to their academic peers: those students with the same achievement history.  
 
 <iframe
