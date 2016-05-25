@@ -58,10 +58,11 @@ upon where a student starts. Students show beginner's gains in academics just li
 ## What's the solution?
 
 If subtraction doesn't work, what's the solution? The previous examples give a hint: Consider the _context_ and look at
-academic growth relative to students with the same starting point. This is exact what the
+where the student currently is relative to students with the same starting point. This is exactly what the
 [Georgia Model of Student Growth](http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Assessment/Pages/Georgia-Student-Growth-Model.aspx)
 does by looking at all students across the state that share the same achievement history as the student in the given grade
-and content area.
+and content area. Each student receives a _student growth percentile_ indicating how remarkable their progress is relative
+to their academic peers: those students with the same achievement history.  
 
 <iframe
     style=“border: 2px solid #111111;”
