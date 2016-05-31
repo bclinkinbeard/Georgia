@@ -13,14 +13,14 @@ what's written about it would lead one to believe. A simple 5th grade story prob
 The story problem is drawn from a situation outside of education where we are asked to consider the
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
->Anna is a novice higher jumper and Judy is a world class competitor. In 2015 Anna’s best jump was 3 feet 6 inches whereas Judy's
->was 6 feet 7 inches. During following 2016 season Anna improved to 4 feet and Judy to 6 feet 9 inches.
 
 ![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
 
-* Whose high jump changed more? Explain your answer.
-* Whose high jump change is more remarkable? Explain your answer.
-* Which high jumper improved more? Explain your answer.
+>Anna is a novice higher jumper and Judy is a world class competitor. In 2015 Anna’s best jump was 3 feet 6 inches whereas Judy's
+>was 6 feet 7 inches. During following 2016 season Anna improved to 4 feet and Judy to 6 feet 9 inches.
+> * Whose high jump changed more? Explain your answer.
+> * Whose high jump change is more remarkable? Explain your answer.
+> * Which high jumper improved more? Explain your answer.
 
 The first question is a familiar one in any arithmetic class. Simple subtraction tells us how much each changed:
 6 inches for Anna and 2 inches for Judy. The second and third questions are more subtle.
