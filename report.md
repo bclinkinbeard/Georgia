@@ -77,7 +77,7 @@ var xmin = -1.0,
 
 // Build the plot.
 var plot = xkcdplot();
-plot("body");
+plot(d3-body");
 
 // Add the lines.
 plot.plot(data);
