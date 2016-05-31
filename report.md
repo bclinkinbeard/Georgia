@@ -1,10 +1,10 @@
-<script src="https://gist.githubusercontent.com/dfm/3914862/raw/ea1c9f9b7b1459f2d8f6f4fba77c63d52e05a700/xkcd.js"></script>
+<script src="https://rawgit.com/dfm/3914862/raw/ea1c9f9b7b1459f2d8f6f4fba77c63d52e05a700/xkcd.js"></script>
 
 <style>
 
 @font-face {
     font-family: "xkcd";
-    src: url('https://github.com/shreyankg/xkcd-desktop/raw/master/Humor-Sans.ttf');
+    src: url('https://rawgit.com/shreyankg/xkcd-desktop/master/Humor-Sans.ttf');
 }
 
 d3-body {
@@ -77,7 +77,7 @@ var xmin = -1.0,
 
 // Build the plot.
 var plot = xkcdplot();
-plot("d3-body");
+plot("body");
 
 // Add the lines.
 plot.plot(data);
