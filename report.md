@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: "xkcd";
-    src: url('http://antiyawn.com/uploads/Humor-Sans.ttf');
+    src: url('https://github.com/shreyankg/xkcd-desktop/raw/master/Humor-Sans.ttf');
 }
 
 d3-body {
