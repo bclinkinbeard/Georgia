@@ -1,3 +1,6 @@
+<script src="https://gist.githubusercontent.com/dfm/3914862/raw/ea1c9f9b7b1459f2d8f6f4fba77c63d52e05a700/xkcd.js"></script>
+
+
 # Subtraction Isn't a Growth Model
 
 Student academic growth is a topic that almost everyone thinks they understand. Growth and change are familiar
