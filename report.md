@@ -7,7 +7,7 @@
     src: url('http://antiyawn.com/uploads/Humor-Sans.ttf');
 }
 
-body-d3 {
+d3-body {
     font-family: "xkcd", sans-serif;
     font-size: 16px;
     color: #333;
@@ -53,7 +53,7 @@ what's written about it would lead one to believe. A simple 5th grade story prob
 The story problem is drawn from a situation outside of education where we are asked to consider the
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
-<body-d3>
+<d3-body>
 
     <script>
 
@@ -89,7 +89,7 @@ improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
     </script>
 
-</body-d3>
+</d3-body>
 
 ![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
 
