@@ -54,41 +54,39 @@ The story problem is drawn from a situation outside of education where we are as
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
 <d3-body>
+<script>
 
-    <script>
+// Generate some data.
+function f1 (x) {
+    return Math.exp(-0.5 * (x - 1) * (x - 1)) * Math.sin(x + 0.2) + 0.05;
+}
 
-        // Generate some data.
-        function f1 (x) {
-            return Math.exp(-0.5 * (x - 1) * (x - 1)) * Math.sin(x + 0.2) + 0.05;
-        }
+function f2 (x) {
+    return 0.5 * Math.cos(x - 0.5) + 0.1;
+}
 
-        function f2 (x) {
-            return 0.5 * Math.cos(x - 0.5) + 0.1;
-        }
+var xmin = -1.0,
+    xmax = 7,
+    N = 100,
+    data = d3.range(xmin, xmax, (xmax - xmin) / N).map(function (d) {
+        return {x: d, y: f1(d)};
+    })
+    data2 = d3.range(xmin, xmax, (xmax - xmin) / N).map(function (d) {
+        return {x: d, y: f2(d)};
+    });
 
-        var xmin = -1.0,
-            xmax = 7,
-            N = 100,
-            data = d3.range(xmin, xmax, (xmax - xmin) / N).map(function (d) {
-                return {x: d, y: f1(d)};
-            })
-            data2 = d3.range(xmin, xmax, (xmax - xmin) / N).map(function (d) {
-                return {x: d, y: f2(d)};
-            });
+// Build the plot.
+var plot = xkcdplot();
+plot("body");
 
-        // Build the plot.
-        var plot = xkcdplot();
-        plot("body");
+// Add the lines.
+plot.plot(data);
+plot.plot(data2, {stroke: "red"});
 
-        // Add the lines.
-        plot.plot(data);
-        plot.plot(data2, {stroke: "red"});
+// Render the image.
+plot.xlim([-1.5, 7.5]).draw();
 
-        // Render the image.
-        plot.xlim([-1.5, 7.5]).draw();
-
-    </script>
-
+</script>
 </d3-body>
 
 ![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
