@@ -14,7 +14,7 @@ The story problem is drawn from a situation outside of education where we are as
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
 <iframe
-    width="100%"
+    width="200%"
     height="510"
     scrolling="no"
     src="https://rawgit.com/dbetebenner/e0f874d6ab1736fdc69bf9ddff9593ec/raw/989e6a6cf3174192625fe295e42d63dc5e2ac172/index.html">
