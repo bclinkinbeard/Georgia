@@ -13,14 +13,12 @@ what's written about it would lead one to believe. A simple 5th grade story prob
 The story problem is drawn from a situation outside of education where we are asked to consider the
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
-```
 <iframe
     width="100%"
     height="510"
     scrolling="no"
     src="https://rawgit.com/dbetebenner/e0f874d6ab1736fdc69bf9ddff9593ec/raw/ea1c9f9b7b1459f2d8f6f4fba77c63d52e05a700/index.html">
 </iframe>
-```
 
 ![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
 
