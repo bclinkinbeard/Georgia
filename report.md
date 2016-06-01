@@ -1,43 +1,3 @@
-<script src="https://rawgit.com/dfm/3914862/raw/ea1c9f9b7b1459f2d8f6f4fba77c63d52e05a700/xkcd.js"></script>
-
-<style>
-
-@font-face {
-    font-family: "xkcd";
-    src: url('https://rawgit.com/shreyankg/xkcd-desktop/master/Humor-Sans.ttf');
-}
-
-body {
-    font-family: "xkcd", sans-serif;
-    font-size: 16px;
-    color: #333;
-    text-align: center;
-    margin-top: 75px;
-}
-
-text.title {
-    font-size: 20px;
-}
-
-path {
-    fill: none;
-    stroke-width: 2.5px;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-}
-
-path.axis {
-    stroke: black;
-}
-
-path.bgline {
-    stroke: white;
-    stroke-width: 6px;
-}
-
-</style>
-
-
 # Subtraction Isn't a Growth Model
 
 Student academic growth is a topic that almost everyone thinks they understand. Growth and change are familiar
@@ -52,42 +12,6 @@ what's written about it would lead one to believe. A simple 5th grade story prob
 
 The story problem is drawn from a situation outside of education where we are asked to consider the
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
-
-<body>
-<script>
-
-// Generate some data.
-function f1 (x) {
-    return Math.exp(-0.5 * (x - 1) * (x - 1)) * Math.sin(x + 0.2) + 0.05;
-}
-
-function f2 (x) {
-    return 0.5 * Math.cos(x - 0.5) + 0.1;
-}
-
-var xmin = -1.0,
-    xmax = 7,
-    N = 100,
-    data = d3.range(xmin, xmax, (xmax - xmin) / N).map(function (d) {
-        return {x: d, y: f1(d)};
-    })
-    data2 = d3.range(xmin, xmax, (xmax - xmin) / N).map(function (d) {
-        return {x: d, y: f2(d)};
-    });
-
-// Build the plot.
-var plot = xkcdplot();
-plot("body");
-
-// Add the lines.
-plot.plot(data);
-plot.plot(data2, {stroke: "red"});
-
-// Render the image.
-plot.xlim([-1.5, 7.5]).draw();
-
-</script>
-</body>
 
 ![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
 
