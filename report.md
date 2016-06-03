@@ -17,7 +17,7 @@ improvement in personal best high jumps for two high jumpers, Anna and Judy.
     width="200%"
     height="510"
     scrolling="no"
-    src="https://rawgit.com/dbetebenner/e0f874d6ab1736fdc69bf9ddff9593ec/raw/fa978cfcb4dc68f546d2c0fce77612eda70336c0/index.html">
+    src="https://rawgit.com/dbetebenner/e0f874d6ab1736fdc69bf9ddff9593ec/raw/3e923df195f1e7c88667d51aa535f28c6bf64f5d/index.html">
 </iframe>
 
 ![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
