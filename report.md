@@ -20,8 +20,6 @@ improvement in personal best high jumps for two high jumpers, Anna and Judy.
     src="https://rawgit.com/dbetebenner/e0f874d6ab1736fdc69bf9ddff9593ec/raw/3e923df195f1e7c88667d51aa535f28c6bf64f5d/index.html">
 </iframe>
 
-![](https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/high_jump_figure.png "Improvement for two high jumpers")
-
 >Anna is a novice higher jumper and Judy is a world class competitor. In 2015 Anna’s best jump was 3 feet 6 inches whereas Judy's
 >was 6 feet 7 inches. During following 2016 season Anna improved to 4 feet and Judy to 6 feet 9 inches.
 > * Whose high jump changed more? Explain your answer.
