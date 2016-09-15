@@ -38,6 +38,12 @@ Though it is certainly true that 6 inches is more than 2 inches, a 6 inch improv
 more remarkable than a 2 inch improvement for an expert. Novices generally improve a lot when
 starting--often referred to as beginners gains.
 
+<h3>Colorado ELA</h3>
+<div
+  id="co-ela"
+  data-pym-url="//cutscores-viz.surge.sh/?state=co&subject=ela">
+</div>
+
 Understanding Anna’s and Judy’s improvement requires one to compare them to their peer’s: those whose high jumping ability is
 like theirs. A 2 inch increase for an elite high jumper is remarkable whereas 6 inches for a novice is typical.
 
@@ -56,6 +62,13 @@ A common belief among users of [Georgia
 Milestones](http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Assessment/Pages/Georgia-Milestones-Assessment-System.aspx) data is that one can simply subtract a student's scores from
 one grade to the next and use the difference to evaluate student growth. Subtraction is what everyone learned to
 do in elementary school when asked to find how much a quantity had changed.
+
+<h3>Colorado Mathematics</h3>
+<div
+  id="co-math"
+  class="full-width"
+  data-pym-url="//cutscores-viz.surge.sh/?state=co&subject=mathematics">
+</div>
 
 For the Georgia Milestones, there are two problems with subtracting a student's scores from one year to the next.
 
